@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@chainsafe/libp2p-noise": "^7.0.1",
+    "@libp2p/mplex": "^4.0.0",
+    "@libp2p/websockets": "^3.0.0",
+    "libp2p": "^0.37.3"
+  }
+}
